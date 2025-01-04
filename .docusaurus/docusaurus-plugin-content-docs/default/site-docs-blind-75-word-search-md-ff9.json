@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Word Search",
+  "title": "Word Search",
+  "description": "Problem Link https://leetcode.com/problems/word-search/description/.",
+  "source": "@site/docs/blind-75/Word Search.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Word Search",
+  "permalink": "/docs/blind-75/Word Search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Word Search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Ladder",
+    "permalink": "/docs/blind-75/Word Ladder"
+  },
+  "next": {
+    "title": "Course Schedule II",
+    "permalink": "/docs/blind-75/course-schedule-II"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/LRU Cache",
+  "title": "LRU Chache",
+  "description": "Problem Link https://leetcode.com/problems/lru-cache/description/.",
+  "source": "@site/docs/blind-75/LRU Cache.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/LRU Cache",
+  "permalink": "/docs/blind-75/LRU Cache",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/LRU Cache.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Group Anagrams",
+    "permalink": "/docs/blind-75/Group Anagrams"
+  },
+  "next": {
+    "title": "Merge K Sorted List",
+    "permalink": "/docs/blind-75/Merge K Sorted List"
+  }
+}

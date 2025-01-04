@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/Merge Two Sorted Lists",
+  "title": "Merge Two Sorted Lists",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/tutorial-basics/Merge Two Sorted Lists.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Merge Two Sorted Lists",
+  "permalink": "/docs/tutorial-basics/Merge Two Sorted Lists",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Merge Two Sorted Lists.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "course-schedule-II",
+    "permalink": "/docs/tutorial-basics/course-schedule-II"
+  }
+}

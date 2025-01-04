@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/course-schedule-II",
+  "title": "Course Schedule II",
+  "description": "Problem Link https://leetcode.com/problems/course-schedule-ii/.",
+  "source": "@site/docs/tutorial-basics/course-schedule-II.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/course-schedule-II",
+  "permalink": "/docs/tutorial-basics/course-schedule-II",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/course-schedule-II.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Search",
+    "permalink": "/docs/tutorial-basics/Word Search"
+  },
+  "next": {
+    "title": "Two Sum",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

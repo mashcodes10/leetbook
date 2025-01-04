@@ -1,0 +1,27 @@
+{
+  "id": "base/LRU Cache",
+  "title": "LRU Chache",
+  "description": "Problem Link https://leetcode.com/problems/lru-cache/description/.",
+  "source": "@site/docs/base/LRU Cache.md",
+  "sourceDirName": "base",
+  "slug": "/base/LRU Cache",
+  "permalink": "/docs/base/LRU Cache",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/base/LRU Cache.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Group Anagrams",
+    "permalink": "/docs/base/Group Anagrams"
+  },
+  "next": {
+    "title": "Merge K Sorted List",
+    "permalink": "/docs/base/Merge K Sorted List"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "base/Word Search",
+  "title": "Word Search",
+  "description": "Problem Link https://leetcode.com/problems/word-search/description/.",
+  "source": "@site/docs/base/Word Search.md",
+  "sourceDirName": "base",
+  "slug": "/base/Word Search",
+  "permalink": "/docs/base/Word Search",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/base/Word Search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Ladder",
+    "permalink": "/docs/base/Word Ladder"
+  },
+  "next": {
+    "title": "Course Schedule II",
+    "permalink": "/docs/base/course-schedule-II"
+  }
+}

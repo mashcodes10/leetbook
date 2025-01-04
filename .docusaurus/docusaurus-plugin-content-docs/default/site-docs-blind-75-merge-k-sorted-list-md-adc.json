@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Merge K Sorted List",
+  "title": "Merge K Sorted List",
+  "description": "Problem Link https://leetcode.com/problems/merge-k-sorted-lists/description/.",
+  "source": "@site/docs/blind-75/Merge K Sorted List.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Merge K Sorted List",
+  "permalink": "/docs/blind-75/Merge K Sorted List",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Merge K Sorted List.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LRU Chache",
+    "permalink": "/docs/blind-75/LRU Cache"
+  },
+  "next": {
+    "title": "Min Stack",
+    "permalink": "/docs/blind-75/Min Stack"
+  }
+}

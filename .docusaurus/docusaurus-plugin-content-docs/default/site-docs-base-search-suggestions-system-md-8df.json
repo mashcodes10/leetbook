@@ -1,0 +1,27 @@
+{
+  "id": "base/Search Suggestions System",
+  "title": "Search Suggestions System",
+  "description": "Problem Link https://leetcode.com/problems/search-suggestions-system/.",
+  "source": "@site/docs/base/Search Suggestions System.md",
+  "sourceDirName": "base",
+  "slug": "/base/Search Suggestions System",
+  "permalink": "/docs/base/Search Suggestions System",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/base/Search Suggestions System.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reorder Data In Log Files",
+    "permalink": "/docs/base/Reorder Data In Log Files"
+  },
+  "next": {
+    "title": "Time Based Key and Value Store",
+    "permalink": "/docs/base/Time Based Key and Value Store"
+  }
+}

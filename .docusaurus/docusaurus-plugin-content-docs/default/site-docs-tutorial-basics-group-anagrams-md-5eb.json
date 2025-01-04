@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/Group Anagrams",
+  "title": "Group Anagrams",
+  "description": "Problem Link https://leetcode.com/problems/group-anagrams/.",
+  "source": "@site/docs/tutorial-basics/Group Anagrams.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Group Anagrams",
+  "permalink": "/docs/tutorial-basics/Group Anagrams",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/Group Anagrams.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design Add and Search Words Data Structure",
+    "permalink": "/docs/tutorial-basics/Design Add and Search Words Data Structure"
+  },
+  "next": {
+    "title": "LRU Chache",
+    "permalink": "/docs/tutorial-basics/LRU Cache"
+  }
+}

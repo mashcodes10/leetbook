@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/course-schedule-II",
+  "title": "Course Schedule II",
+  "description": "Problem Link https://leetcode.com/problems/course-schedule-ii/.",
+  "source": "@site/docs/blind-75/course-schedule-II.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/course-schedule-II",
+  "permalink": "/docs/blind-75/course-schedule-II",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/course-schedule-II.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Word Search",
+    "permalink": "/docs/blind-75/Word Search"
+  },
+  "next": {
+    "title": "Two Sum",
+    "permalink": "/docs/blind-75/create-a-document"
+  }
+}

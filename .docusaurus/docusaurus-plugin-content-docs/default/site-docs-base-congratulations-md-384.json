@@ -1,0 +1,27 @@
+{
+  "id": "base/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/base/congratulations.md",
+  "sourceDirName": "base",
+  "slug": "/base/congratulations",
+  "permalink": "/docs/base/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/base/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/base/deploy-your-site"
+  },
+  "next": {
+    "title": "Merge Two Sorted Lists",
+    "permalink": "/docs/base/reate-a-blog-post"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "blind-75/congratulations",
+              "path": "/docs/blind-75/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/course-schedule-II",
+              "path": "/docs/blind-75/course-schedule-II",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/create-a-document",
+              "path": "/docs/blind-75/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/create-a-page",
+              "path": "/docs/blind-75/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/deploy-your-site",
+              "path": "/docs/blind-75/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Design Add and Search Words Data Structure",
+              "path": "/docs/blind-75/Design Add and Search Words Data Structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Group Anagrams",
+              "path": "/docs/blind-75/Group Anagrams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/LRU Cache",
+              "path": "/docs/blind-75/LRU Cache",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/markdown-features",
+              "path": "/docs/blind-75/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Merge K Sorted List",
+              "path": "/docs/blind-75/Merge K Sorted List",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Min Stack",
+              "path": "/docs/blind-75/Min Stack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/reate-a-blog-post",
+              "path": "/docs/blind-75/reate-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Reorder Data In Log Files",
+              "path": "/docs/blind-75/Reorder Data In Log Files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Search Suggestions System",
+              "path": "/docs/blind-75/Search Suggestions System",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Time Based Key and Value Store",
+              "path": "/docs/blind-75/Time Based Key and Value Store",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Valid Suduko",
+              "path": "/docs/blind-75/Valid Suduko",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Word Ladder",
+              "path": "/docs/blind-75/Word Ladder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Word Search",
+              "path": "/docs/blind-75/Word Search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

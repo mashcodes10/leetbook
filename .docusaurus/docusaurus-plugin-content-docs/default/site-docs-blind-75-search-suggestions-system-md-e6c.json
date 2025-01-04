@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Search Suggestions System",
+  "title": "Search Suggestions System",
+  "description": "Problem Link https://leetcode.com/problems/search-suggestions-system/.",
+  "source": "@site/docs/blind-75/Search Suggestions System.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Search Suggestions System",
+  "permalink": "/docs/blind-75/Search Suggestions System",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Search Suggestions System.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reorder Data In Log Files",
+    "permalink": "/docs/blind-75/Reorder Data In Log Files"
+  },
+  "next": {
+    "title": "Time Based Key and Value Store",
+    "permalink": "/docs/blind-75/Time Based Key and Value Store"
+  }
+}
