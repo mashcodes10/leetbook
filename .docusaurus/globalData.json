@@ -11,8 +11,18 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "blind-75/Basic Calculator",
+              "path": "/docs/blind-75/Basic Calculator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/congratulations",
               "path": "/docs/blind-75/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Convert Sorted Array to Binary Search Tree",
+              "path": "/docs/blind-75/Convert Sorted Array to Binary Search Tree",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,6 +66,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blind-75/Merge Intervals",
+              "path": "/docs/blind-75/Merge Intervals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/Merge K Sorted List",
               "path": "/docs/blind-75/Merge K Sorted List",
               "sidebar": "tutorialSidebar"
@@ -73,6 +88,11 @@
             {
               "id": "blind-75/Reorder Data In Log Files",
               "path": "/docs/blind-75/Reorder Data In Log Files",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Reorganize String",
+              "path": "/docs/blind-75/Reorganize String",
               "sidebar": "tutorialSidebar"
             },
             {

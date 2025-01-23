@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "LRU Chache",
-    "permalink": "/docs/blind-75/LRU Cache"
+    "title": "Basic Calculator",
+    "permalink": "/docs/blind-75/Merge Intervals"
   },
   "next": {
     "title": "Min Stack",
