@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Angle Between Hands of Clock",
+  "title": "Angle between Hands of CLock",
+  "description": "Problem Link https://leetcode.com/problems/basic-calculator/description/.",
+  "source": "@site/docs/blind-75/Angle Between Hands of Clock.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Angle Between Hands of Clock",
+  "permalink": "/docs/blind-75/Angle Between Hands of Clock",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Angle Between Hands of Clock.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amzn PingGroup",
+    "permalink": "/docs/blind-75/Amzn PingGroup"
+  },
+  "next": {
+    "title": "Basic Calculator",
+    "permalink": "/docs/blind-75/Basic Calculator"
+  }
+}

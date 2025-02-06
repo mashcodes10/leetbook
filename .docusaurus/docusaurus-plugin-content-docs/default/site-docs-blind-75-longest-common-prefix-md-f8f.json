@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "LRU Chache",
-    "permalink": "/docs/blind-75/LRU Cache"
+    "title": "Lonngest Balanced Subarray",
+    "permalink": "/docs/blind-75/Longest Balanced Subarray"
   },
   "next": {
     "title": "Longest Palindromic String",

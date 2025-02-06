@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Time Based Key and Value Store",
-    "permalink": "/docs/blind-75/Time Based Key and Value Store"
+    "title": "Top K Frequent Characters",
+    "permalink": "/docs/blind-75/Top K Frequent Characters"
   },
   "next": {
     "title": "Valid Suduko",

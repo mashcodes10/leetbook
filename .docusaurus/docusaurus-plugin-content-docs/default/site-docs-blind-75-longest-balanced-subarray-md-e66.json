@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Longest Balanced Subarray",
+  "title": "Lonngest Balanced Subarray",
+  "description": "Problem Link https://leetcode.com/problems/reorganize-string/.",
+  "source": "@site/docs/blind-75/Longest Balanced Subarray.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Longest Balanced Subarray",
+  "permalink": "/docs/blind-75/Longest Balanced Subarray",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Longest Balanced Subarray.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LRU Chache",
+    "permalink": "/docs/blind-75/LRU Cache"
+  },
+  "next": {
+    "title": "Longest Common Prefix",
+    "permalink": "/docs/blind-75/Longest Common Prefix"
+  }
+}

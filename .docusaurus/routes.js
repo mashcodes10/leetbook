@@ -124,16 +124,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'cbf'),
+    component: ComponentCreator('/docs', '8a5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c4f'),
+        component: ComponentCreator('/docs', 'ceb'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7f2'),
+            component: ComponentCreator('/docs', 'ed8'),
             routes: [
+              {
+                path: '/docs/blind-75/AMZN Browser History',
+                component: ComponentCreator('/docs/blind-75/AMZN Browser History', '46f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/blind-75/AMZN Dialogue Count',
                 component: ComponentCreator('/docs/blind-75/AMZN Dialogue Count', '508'),
@@ -147,6 +153,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Amzn GameWIn',
+                component: ComponentCreator('/docs/blind-75/Amzn GameWIn', '55f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Amzn PingGroup',
                 component: ComponentCreator('/docs/blind-75/Amzn PingGroup', '006'),
                 exact: true,
@@ -155,6 +167,12 @@ export default [
               {
                 path: '/docs/blind-75/AMZN Product Reviews',
                 component: ComponentCreator('/docs/blind-75/AMZN Product Reviews', '146'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Angle Between Hands of Clock',
+                component: ComponentCreator('/docs/blind-75/Angle Between Hands of Clock', '0c3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -243,6 +261,18 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/K Closest Point to Origin',
+                component: ComponentCreator('/docs/blind-75/K Closest Point to Origin', '91a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Longest Balanced Subarray',
+                component: ComponentCreator('/docs/blind-75/Longest Balanced Subarray', '296'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Longest Common Prefix',
                 component: ComponentCreator('/docs/blind-75/Longest Common Prefix', '0fd'),
                 exact: true,
@@ -263,6 +293,12 @@ export default [
               {
                 path: '/docs/blind-75/markdown-features',
                 component: ComponentCreator('/docs/blind-75/markdown-features', 'ffc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Meeting Rooms',
+                component: ComponentCreator('/docs/blind-75/Meeting Rooms', 'f85'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -291,14 +327,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Minimum Path Sum',
+                component: ComponentCreator('/docs/blind-75/Minimum Path Sum', '1a8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Move Zeros',
                 component: ComponentCreator('/docs/blind-75/Move Zeros', 'd6c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Permutations',
+                component: ComponentCreator('/docs/blind-75/Permutations', '3eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/reate-a-blog-post',
                 component: ComponentCreator('/docs/blind-75/reate-a-blog-post', '6de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Redundant Connection',
+                component: ComponentCreator('/docs/blind-75/Redundant Connection', 'e1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -333,8 +387,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/String to Int(atoi)',
+                component: ComponentCreator('/docs/blind-75/String to Int(atoi)', '77f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Time Based Key and Value Store',
                 component: ComponentCreator('/docs/blind-75/Time Based Key and Value Store', '5b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Top K Frequent Characters',
+                component: ComponentCreator('/docs/blind-75/Top K Frequent Characters', '6a4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

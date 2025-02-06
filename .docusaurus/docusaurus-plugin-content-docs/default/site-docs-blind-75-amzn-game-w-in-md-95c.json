@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Amzn GameWIn",
+  "title": "Meeting Rooms",
+  "description": "Problem Link https://leetcode.com/problems/reorganize-string/.",
+  "source": "@site/docs/blind-75/Amzn GameWIn.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Amzn GameWIn",
+  "permalink": "/docs/blind-75/Amzn GameWIn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Amzn GameWIn.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Calculator",
+    "permalink": "/docs/blind-75/AMZN Elevation"
+  },
+  "next": {
+    "title": "Amzn PingGroup",
+    "permalink": "/docs/blind-75/Amzn PingGroup"
+  }
+}

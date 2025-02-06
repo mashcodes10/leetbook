@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Group Anagrams",
-    "permalink": "/docs/blind-75/Group Anagrams"
+    "title": "K Closest Point to Origin",
+    "permalink": "/docs/blind-75/K Closest Point to Origin"
   },
   "next": {
-    "title": "Longest Common Prefix",
-    "permalink": "/docs/blind-75/Longest Common Prefix"
+    "title": "Lonngest Balanced Subarray",
+    "permalink": "/docs/blind-75/Longest Balanced Subarray"
   }
 }

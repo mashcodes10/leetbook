@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Search Suggestions System",
-    "permalink": "/docs/blind-75/Search Suggestions System"
+    "title": "String to integer",
+    "permalink": "/docs/blind-75/String to Int(atoi)"
   },
   "next": {
-    "title": "Valid Parenthesis",
-    "permalink": "/docs/blind-75/Valid Parenthesis"
+    "title": "Top K Frequent Characters",
+    "permalink": "/docs/blind-75/Top K Frequent Characters"
   }
 }
