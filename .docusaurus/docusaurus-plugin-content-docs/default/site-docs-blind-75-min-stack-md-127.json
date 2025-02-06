@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Merge K Sorted List",
-    "permalink": "/docs/blind-75/Merge K Sorted List"
+    "title": "Merge Two Sorted Lists",
+    "permalink": "/docs/blind-75/Merge Two Sorted Lists"
   },
   "next": {
-    "title": "Reorder Data In Log Files",
-    "permalink": "/docs/blind-75/Reorder Data In Log Files"
+    "title": "Move Zeros",
+    "permalink": "/docs/blind-75/Move Zeros"
   }
 }

@@ -1,0 +1,27 @@
+{
+  "id": "blind-75/Rotate List",
+  "title": "Rotate List",
+  "description": "Problem Link https://leetcode.com/problems/reorganize-string/.",
+  "source": "@site/docs/blind-75/Rotate List.md",
+  "sourceDirName": "blind-75",
+  "slug": "/blind-75/Rotate List",
+  "permalink": "/docs/blind-75/Rotate List",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/blind-75/Rotate List.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reorganize String",
+    "permalink": "/docs/blind-75/Reorganize String"
+  },
+  "next": {
+    "title": "Search Suggestions System",
+    "permalink": "/docs/blind-75/Search Suggestions System"
+  }
+}

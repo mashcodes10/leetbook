@@ -124,19 +124,55 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f09'),
+    component: ComponentCreator('/docs', 'cbf'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '93a'),
+        component: ComponentCreator('/docs', 'c4f'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2a6'),
+            component: ComponentCreator('/docs', '7f2'),
             routes: [
+              {
+                path: '/docs/blind-75/AMZN Dialogue Count',
+                component: ComponentCreator('/docs/blind-75/AMZN Dialogue Count', '508'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/AMZN Elevation',
+                component: ComponentCreator('/docs/blind-75/AMZN Elevation', '10e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Amzn PingGroup',
+                component: ComponentCreator('/docs/blind-75/Amzn PingGroup', '006'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/AMZN Product Reviews',
+                component: ComponentCreator('/docs/blind-75/AMZN Product Reviews', '146'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/blind-75/Basic Calculator',
                 component: ComponentCreator('/docs/blind-75/Basic Calculator', '3f8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Binary Tree Level Order Traversal',
+                component: ComponentCreator('/docs/blind-75/Binary Tree Level Order Traversal', '997'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Climbing Stairs',
+                component: ComponentCreator('/docs/blind-75/Climbing Stairs', '3b9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -147,8 +183,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Contains Duplicate',
+                component: ComponentCreator('/docs/blind-75/Contains Duplicate', '921'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Convert Sorted Array to Binary Search Tree',
                 component: ComponentCreator('/docs/blind-75/Convert Sorted Array to Binary Search Tree', 'd10'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Count And Say',
+                component: ComponentCreator('/docs/blind-75/Count And Say', 'a5b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -171,6 +219,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Days Until Warmer Temperature',
+                component: ComponentCreator('/docs/blind-75/Days Until Warmer Temperature', '6ae'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/deploy-your-site',
                 component: ComponentCreator('/docs/blind-75/deploy-your-site', '649'),
                 exact: true,
@@ -185,6 +239,18 @@ export default [
               {
                 path: '/docs/blind-75/Group Anagrams',
                 component: ComponentCreator('/docs/blind-75/Group Anagrams', '100'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Longest Common Prefix',
+                component: ComponentCreator('/docs/blind-75/Longest Common Prefix', '0fd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Longest Palindromic Substring',
+                component: ComponentCreator('/docs/blind-75/Longest Palindromic Substring', 'a13'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -213,14 +279,32 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Merge Two Sorted Lists',
+                component: ComponentCreator('/docs/blind-75/Merge Two Sorted Lists', '8bc'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Min Stack',
                 component: ComponentCreator('/docs/blind-75/Min Stack', '9c7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Move Zeros',
+                component: ComponentCreator('/docs/blind-75/Move Zeros', 'd6c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/reate-a-blog-post',
                 component: ComponentCreator('/docs/blind-75/reate-a-blog-post', '6de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Remove Duplicates from Sorted Array',
+                component: ComponentCreator('/docs/blind-75/Remove Duplicates from Sorted Array', 'b2f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -237,6 +321,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/blind-75/Rotate List',
+                component: ComponentCreator('/docs/blind-75/Rotate List', '15f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/blind-75/Search Suggestions System',
                 component: ComponentCreator('/docs/blind-75/Search Suggestions System', 'dd0'),
                 exact: true,
@@ -245,6 +335,12 @@ export default [
               {
                 path: '/docs/blind-75/Time Based Key and Value Store',
                 component: ComponentCreator('/docs/blind-75/Time Based Key and Value Store', '5b8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/blind-75/Valid Parenthesis',
+                component: ComponentCreator('/docs/blind-75/Valid Parenthesis', '1f7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "LRU Chache",
-    "permalink": "/docs/blind-75/LRU Cache"
+    "title": "Longest Palindromic String",
+    "permalink": "/docs/blind-75/Longest Palindromic Substring"
   },
   "next": {
     "title": "Merge K Sorted List",

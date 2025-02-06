@@ -71,7 +71,103 @@ class Solution:
         
         return order
 
+    
+    class Solution:
+    def getBuildOrder(self, packageName):
+        UNVISITED, VISITING, VISITED = 0, 1, 2
+        states = {}  # Tracks package states
+        order = []   # Stores the final build order
 
+        def dfs(pkg):
+            if pkg in states:
+                if states[pkg] == VISITING:  # Cycle detected
+                    return False
+                if states[pkg] == VISITED:  # Already processed
+                    return True
+
+            states[pkg] = VISITING  # Mark as in-progress
+            
+            # Get dependencies dynamically
+            for dep in getDependencies(pkg):
+                if not dfs(dep):
+                    return False  # Cycle detected
+            
+            states[pkg] = VISITED  # Mark as fully processed
+            order.append(pkg)  # Append to build order
+            return True
+
+        # Start DFS from the given package
+        if not dfs(packageName):
+            return []  # Return empty list if cycle detected
+
+        return order  # The order is already topologically sorted
+
+    def getDependencies(packageName):
+    dependencies = {
+        "A": {"B", "C"},
+        "B": {"E"},
+        "C": {"D", "E", "F"},
+        "D": set(),
+        "E": set(),
+        "F": set(),
+        "G": {"C"}
+    }
+    return dependencies.get(packageName, set())  # Return empty if no dependencies
+
+
+from collections import defaultdict
+
+class Solution:
+    def getBuildOrder(self, packages, dependencies, target_package):
+        g = defaultdict(list)
+
+        # Build the dependency graph
+        for pkg, deps in dependencies.items():
+            for dep in deps:
+                g[pkg].append(dep)
+
+        UNVISITED, VISITING, VISITED = 0, 1, 2
+        states = {pkg: UNVISITED for pkg in packages}
+        order = []
+
+        def dfs(pkg):
+            if states[pkg] == VISITING:  # Cycle detected
+                return False
+            if states[pkg] == VISITED:  # Already processed
+                return True
+
+            states[pkg] = VISITING
+            for dep in g[pkg]:
+                if not dfs(dep):
+                    return False  # Cycle detected in recursion
+            
+            states[pkg] = VISITED
+            order.append(pkg)  # Append to build order after dependencies are processed
+            return True
+
+        # Start DFS from the target package
+        if not dfs(target_package):
+            return []  # Return empty if a cycle is found
+
+        return order  # The order is already in topological order
+
+# Example Usage
+dependencies = {
+    "A": {"B", "C"},
+    "B": {"E"},
+    "C": {"D", "E", "F"},
+    "D": set(),
+    "E": set(),
+    "F": set(),
+    "G": {"C"}
+}
+
+packages = {"A", "B", "C", "D", "E", "F", "G"}
+target_package = "A"
+
+solution = Solution()
+build_order = solution.getBuildOrder(packages, dependencies, target_package)
+print(build_order)  # Example output: ['E', 'B', 'F', 'D', 'C', 'A']
 
         
 ```

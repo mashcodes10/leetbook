@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Page",
-    "permalink": "/docs/blind-75/create-a-page"
+    "title": "Amzn PingGroup",
+    "permalink": "/docs/blind-75/Amzn PingGroup"
   },
   "next": {
-    "title": "108. Convert Sorted Array to Binary Search Tree",
-    "permalink": "/docs/blind-75/Convert Sorted Array to Binary Search Tree"
+    "title": "Binary Tree Level Order Traversal",
+    "permalink": "/docs/blind-75/Binary Tree Level Order Traversal"
   }
 }

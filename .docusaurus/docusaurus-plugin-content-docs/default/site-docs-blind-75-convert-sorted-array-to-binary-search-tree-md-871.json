@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Basic Calculator",
-    "permalink": "/docs/blind-75/Basic Calculator"
+    "title": "Contains Duplicate",
+    "permalink": "/docs/blind-75/Contains Duplicate"
   },
   "next": {
-    "title": "Design Add and Search Words Data Structure",
-    "permalink": "/docs/blind-75/Design Add and Search Words Data Structure"
+    "title": "Count And Say",
+    "permalink": "/docs/blind-75/Count And Say"
   }
 }

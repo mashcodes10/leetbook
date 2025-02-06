@@ -11,8 +11,38 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "blind-75/AMZN Dialogue Count",
+              "path": "/docs/blind-75/AMZN Dialogue Count",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/AMZN Elevation",
+              "path": "/docs/blind-75/AMZN Elevation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Amzn PingGroup",
+              "path": "/docs/blind-75/Amzn PingGroup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/AMZN Product Reviews",
+              "path": "/docs/blind-75/AMZN Product Reviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/Basic Calculator",
               "path": "/docs/blind-75/Basic Calculator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Binary Tree Level Order Traversal",
+              "path": "/docs/blind-75/Binary Tree Level Order Traversal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Climbing Stairs",
+              "path": "/docs/blind-75/Climbing Stairs",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,8 +51,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blind-75/Contains Duplicate",
+              "path": "/docs/blind-75/Contains Duplicate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/Convert Sorted Array to Binary Search Tree",
               "path": "/docs/blind-75/Convert Sorted Array to Binary Search Tree",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Count And Say",
+              "path": "/docs/blind-75/Count And Say",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -41,6 +81,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blind-75/Days Until Warmer Temperature",
+              "path": "/docs/blind-75/Days Until Warmer Temperature",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/deploy-your-site",
               "path": "/docs/blind-75/deploy-your-site",
               "sidebar": "tutorialSidebar"
@@ -53,6 +98,16 @@
             {
               "id": "blind-75/Group Anagrams",
               "path": "/docs/blind-75/Group Anagrams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Longest Common Prefix",
+              "path": "/docs/blind-75/Longest Common Prefix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Longest Palindromic Substring",
+              "path": "/docs/blind-75/Longest Palindromic Substring",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -76,13 +131,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blind-75/Merge Two Sorted Lists",
+              "path": "/docs/blind-75/Merge Two Sorted Lists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/Min Stack",
               "path": "/docs/blind-75/Min Stack",
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blind-75/Move Zeros",
+              "path": "/docs/blind-75/Move Zeros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/reate-a-blog-post",
               "path": "/docs/blind-75/reate-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Remove Duplicates from Sorted Array",
+              "path": "/docs/blind-75/Remove Duplicates from Sorted Array",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -96,6 +166,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "blind-75/Rotate List",
+              "path": "/docs/blind-75/Rotate List",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "blind-75/Search Suggestions System",
               "path": "/docs/blind-75/Search Suggestions System",
               "sidebar": "tutorialSidebar"
@@ -103,6 +178,11 @@
             {
               "id": "blind-75/Time Based Key and Value Store",
               "path": "/docs/blind-75/Time Based Key and Value Store",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "blind-75/Valid Parenthesis",
+              "path": "/docs/blind-75/Valid Parenthesis",
               "sidebar": "tutorialSidebar"
             },
             {
